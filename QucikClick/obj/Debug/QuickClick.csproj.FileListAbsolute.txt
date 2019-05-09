@@ -1,0 +1,20 @@
+C:\Users\v-steli\Documents\Visual Studio 2012\Projects\QucikClick\QucikClick\bin\Debug\QuickClick.exe
+C:\Users\v-steli\Documents\Visual Studio 2012\Projects\QucikClick\QucikClick\bin\Debug\QuickClick.pdb
+C:\Users\v-steli\Documents\Visual Studio 2012\Projects\QucikClick\QucikClick\obj\Debug\QucikClick.Form1.resources
+C:\Users\v-steli\Documents\Visual Studio 2012\Projects\QucikClick\QucikClick\obj\Debug\QuickClick.Properties.Resources.resources
+C:\Users\v-steli\Documents\Visual Studio 2012\Projects\QucikClick\QucikClick\obj\Debug\QuickClick.csproj.GenerateResource.Cache
+C:\Users\v-steli\Documents\Visual Studio 2012\Projects\QucikClick\QucikClick\obj\Debug\QuickClick.exe
+C:\Users\v-steli\Documents\Visual Studio 2012\Projects\QucikClick\QucikClick\obj\Debug\QuickClick.pdb
+C:\Users\v-steli\Documents\Visual Studio 2012\Projects\QucikClick\QucikClick\obj\Debug\QuickClick.csprojResolveAssemblyReference.cache
+C:\Users\steli\Documents\Visual Studio 2012\Projects\QucikClick\QucikClick\obj\Debug\QuickClick.exe
+C:\Users\steli\Documents\Visual Studio 2012\Projects\QucikClick\QucikClick\obj\Debug\QuickClick.pdb
+D:\OneDrive\QucikClick\QucikClick\obj\Debug\QuickClick.exe
+D:\OneDrive\QucikClick\QucikClick\obj\Debug\QuickClick.pdb
+E:\OneDrive\QucikClick\QucikClick\obj\Debug\QuickClick.exe
+E:\OneDrive\QucikClick\QucikClick\obj\Debug\QuickClick.pdb
+E:\OneDrive\QucikClick\QucikClick\bin\Debug\QuickClick.exe
+E:\OneDrive\QucikClick\QucikClick\bin\Debug\QuickClick.pdb
+E:\OneDrive\QucikClick\QucikClick\obj\Debug\QuickClick.csprojResolveAssemblyReference.cache
+E:\OneDrive\QucikClick\QucikClick\obj\Debug\QucikClick.Form1.resources
+E:\OneDrive\QucikClick\QucikClick\obj\Debug\QuickClick.Properties.Resources.resources
+E:\OneDrive\QucikClick\QucikClick\obj\Debug\QuickClick.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+c:\users\v-steli\documents\visual studio 2012\Projects\QucikClick\QucikClick\bin\Debug\QucikClick.exe
+c:\users\v-steli\documents\visual studio 2012\Projects\QucikClick\QucikClick\bin\Debug\QucikClick.pdb
+c:\users\v-steli\documents\visual studio 2012\Projects\QucikClick\QucikClick\obj\Debug\QucikClick.Form1.resources
+c:\users\v-steli\documents\visual studio 2012\Projects\QucikClick\QucikClick\obj\Debug\QucikClick.Properties.Resources.resources
+c:\users\v-steli\documents\visual studio 2012\Projects\QucikClick\QucikClick\obj\Debug\QucikClick.csproj.GenerateResource.Cache
+c:\users\v-steli\documents\visual studio 2012\Projects\QucikClick\QucikClick\obj\Debug\QucikClick.exe
+c:\users\v-steli\documents\visual studio 2012\Projects\QucikClick\QucikClick\obj\Debug\QucikClick.pdb
+C:\Users\v-steli\documents\visual studio 2012\Projects\QucikClick\QucikClick\obj\Debug\QucikClick.csprojResolveAssemblyReference.cache
